@@ -12,3 +12,42 @@
   font-style: normal;
   font-display: swap;
 }
+
+@layer base {
+  * {
+    @apply relative box-border antialiased;
+  }
+
+  body,
+  html {
+    @apply scroll-smooth bg-secondary-800 text-gray-300;
+  }
+
+  body {
+    @apply min-h-[100svh] overflow-x-hidden text-base;
+  }
+
+  b,
+  strong {
+    @apply font-bold;
+  }
+
+  p + p {
+    @apply mt-4;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6 {
+    @apply mb-4 font-bold leading-5 tracking-normal;
+  }
+}
