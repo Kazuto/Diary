@@ -11,7 +11,9 @@
     "lint": "yarn lint:eslint && yarn lint:prettier",
     "lint:eslint": "eslint .",
     "lint:prettier": "prettier . --check",
-    "lint:fix": "eslint . --fix && prettier --write --list-different ."
+    "lint:fix": "eslint . --fix && prettier --write --list-different .",
+    "make:diary": "node ./scripts/make-diary.mjs",
+    "make:thought": "node ./scripts/make-thought.mjs"
   },
   "dependencies": {
     "@nuxt/content": "^2.12.1",
@@ -28,6 +30,7 @@
     "postcss": "^8.4.38",
     "prettier": "^3.3.1",
     "prettier-plugin-tailwindcss": "^0.6.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "uuid": "^10.0.0"
   }
 }
