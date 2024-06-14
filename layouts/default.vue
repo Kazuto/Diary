@@ -1,5 +1,7 @@
 <template>
-  <main class="mx-auto my-16 max-w-3xl">
+  <main
+    class="mx-auto flex min-h-[100svh] max-w-3xl items-stretch justify-items-stretch py-16"
+  >
     <nuxt-page />
   </main>
 </template>

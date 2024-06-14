@@ -1,11 +1,11 @@
-import moment from 'moment';
+import moment from "moment";
 
 export default defineNuxtPlugin(() => {
   return {
     provide: {
       formatter: {
-        date: (date: String) => {
-          return moment(date).fromNow()
+        date: (date: string) => {
+          return moment(date).fromNow();
         },
       },
     },
