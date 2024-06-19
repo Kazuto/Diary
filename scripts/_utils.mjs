@@ -5,7 +5,9 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 function getCurrentDate() {
-  const date = new Date();
+  let date = new Date();
+
+  console.log(date);
 
   const year = date.getFullYear();
   const month = appendLeadingZeroes(date.getMonth() + 1);
@@ -18,6 +20,7 @@ function getCurrentDate() {
     year: `${year}`,
     month: `${month}`,
     day: `${day}`,
+    dayOfWeek: `${date.dayOfWeek}`,
     hour: `${hour}`,
     minute: `${minute}`,
     date: `${year}-${month}-${day} ${hour}:${minute}`,
@@ -35,11 +38,19 @@ function ensureDirectory(dirPath) {
 }
 
 function createFile(templatePath, filePath) {
+  const title = (new Date()).toLocaleString("de-DE", {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+
   fs.copyFileSync(templatePath, filePath);
   fs.writeFileSync(
     filePath,
     fs
       .readFileSync(filePath, "utf8")
+      .replace("title:", `title: ${title}`)
       .replace("created_at:", "created_at: " + getCurrentDate().date),
   );
 }
