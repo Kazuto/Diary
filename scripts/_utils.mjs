@@ -38,7 +38,7 @@ function ensureDirectory(dirPath) {
 }
 
 function createFile(templatePath, filePath) {
-  const title = (new Date()).toLocaleString("de-DE", {
+  const title = new Date().toLocaleString("de-DE", {
     weekday: "long",
     year: "numeric",
     month: "long",

@@ -3,7 +3,8 @@
     :to="doc._path"
     class="duration-250 block rounded-lg border border-black/30 bg-secondary-100/[0.025] px-4 py-3 font-semibold shadow-md shadow-gray-900/10 ring-inset ring-white/5 transition-all hover:-translate-y-0.5 hover:bg-secondary-100/[0.05] hover:shadow-md dark:ring-1"
     :class="{
-      'bg-primary-500/[0.01] ring-primary-100/10': category === 'diary',
+      'bg-red-500/[0.02] ring-red-700/10 hover:bg-red-500/[0.05]':
+        category == 'thoughts',
     }"
   >
     <span class="block text-xs text-white/40">
