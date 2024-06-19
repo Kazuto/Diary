@@ -1,6 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  meta: {
+    title: 'Tagebuch - Kai Mayer',
+  },
   modules: [
     "@nuxt/eslint",
     "@nuxtjs/tailwindcss",
