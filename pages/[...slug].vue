@@ -9,10 +9,7 @@
 
     <div class="w-full flex-grow">
       <ContentDoc
-        class="duration-250 block w-full rounded-lg border border-black/30 bg-secondary-100/[0.025] px-4 py-3 font-semibold shadow-md shadow-gray-900/10 ring-inset ring-white/5 transition-all dark:ring-1"
-        :class="{
-          'bg-red-500/[0.02] ring-red-700/10': category == 'thoughts',
-        }"
+        class="block w-full py-3 font-semibold transition-all"
       />
     </div>
 
