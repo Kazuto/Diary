@@ -11,11 +11,16 @@ function getCurrentDate() {
   const month = appendLeadingZeroes(date.getMonth() + 1);
   const day = appendLeadingZeroes(date.getDate());
 
+  const hour = appendLeadingZeroes(date.getHours());
+  const minute = appendLeadingZeroes(date.getMinutes());
+
   return {
     year: `${year}`,
     month: `${month}`,
     day: `${day}`,
-    date: year + "-" + month + "-" + day,
+    hour: `${hour}`,
+    minute: `${minute}`,
+    date: `${year}-${month}-${day} ${hour}:${minute}`,
   };
 }
 
