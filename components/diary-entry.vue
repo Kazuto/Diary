@@ -9,12 +9,14 @@
         category == 'thoughts',
     }"
   >
-<h2 class="text-xl mt-0.5 mb-1">
+<div class="flex items-start mb-1">
+<h2 class="text-xl">
 {{ doc.title}} 
 </h2>
-    <span class="block text-xs text-white/40 text-right">
+    <span class="block shrink-0 text-xs text-white/40 text-right">
       {{ $formatter.date(doc.created_at) }}
     </span>
+</div>
 
     <p v-if="doc.description" class="text-neutral-400">
       {{ doc.description }}
