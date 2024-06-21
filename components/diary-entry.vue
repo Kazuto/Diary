@@ -9,7 +9,7 @@
         category == 'thoughts',
     }"
   >
-    <span class="block text-xs text-white/40">
+    <span class="block text-xs text-white/40 text-right">
       {{ $formatter.date(doc.created_at) }}
     </span>
 <h2 class="text-xl mt-0.5 mb-1">
