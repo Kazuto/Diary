@@ -12,6 +12,9 @@
     <span class="block text-xs text-white/40">
       {{ $formatter.date(doc.created_at) }}
     </span>
+<h2 class="text-3xl">
+{{ doc.title}} 
+</h2>
     <p v-if="doc.description" class="my-2 text-neutral-400">
       {{ doc.description }}
     </p>
