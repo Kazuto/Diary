@@ -1,5 +1,5 @@
 <template>
-  <article class="flex w-full flex-col">
+  <article class="flex w-full flex-cool px-2 lg:px-0">
     <nuxt-link
       to="/"
       class="mb-4 inline-block text-primary-500 transition-colors hover:text-primary-700"
