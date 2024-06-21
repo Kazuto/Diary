@@ -1,5 +1,5 @@
 <template>
-  <section class="W-full px-2 lg:px-0">
+  <section class="W-full px-4 lg:px-0">
     <ContentList v-slot="{ list }" :query="query">
       <diary-entry
         v-for="(doc, index) in list"
