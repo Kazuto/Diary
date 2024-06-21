@@ -12,10 +12,10 @@
     <span class="block text-xs text-white/40">
       {{ $formatter.date(doc.created_at) }}
     </span>
-<h2 class="text-xl">
+<h2 class="text-xl mt-0.5 mb-1">
 {{ doc.title}} 
 </h2>
-    <p v-if="doc.description" class="my-2 text-neutral-400">
+    <p v-if="doc.description" class="text-neutral-400">
       {{ doc.description }}
     </p>
   </NuxtLink>
