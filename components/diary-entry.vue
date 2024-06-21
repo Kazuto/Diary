@@ -9,12 +9,13 @@
         category == 'thoughts',
     }"
   >
-    <span class="block text-xs text-white/40 text-right">
-      {{ $formatter.date(doc.created_at) }}
-    </span>
 <h2 class="text-xl mt-0.5 mb-1">
 {{ doc.title}} 
 </h2>
+    <span class="block text-xs text-white/40 text-right">
+      {{ $formatter.date(doc.created_at) }}
+    </span>
+
     <p v-if="doc.description" class="text-neutral-400">
       {{ doc.description }}
     </p>
