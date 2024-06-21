@@ -7,9 +7,12 @@
       &larr; Back
     </nuxt-link>
 
-    <div class="w-full flex-grow">
+    <div class="w-full flex-grow py-3">
+<h2 class="text-3xl mb-2">
+{{ doc.title}} 
+</h2>
       <ContentDoc
-        class="block w-full py-3 font-semibold transition-all"
+        class="block W-full font-semibold transition-all"
       />
     </div>
 
