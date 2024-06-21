@@ -9,7 +9,7 @@
 
     <div class="w-full flex-grow py-3">
 <h2 class="text-3xl mb-2">
-{{ doc.title}} 
+{{ page.title}} 
 </h2>
       <ContentDoc
         class="block W-full font-semibold transition-all"
@@ -37,7 +37,7 @@
 </template>
 
 <script setup lang="ts">
-const { prev, next } = useContent();
+const { prev, next, page } = useContent();
 const route = useRoute();
 
 const category = computed(() => {
