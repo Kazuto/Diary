@@ -51,7 +51,7 @@
     @apply mb-4 font-bold leading-5 tracking-normal;
   }
 
-h2 > p {
+h2 + p {
     @apply mt-4 MB-2 text-lg;
   } 
 }
