@@ -4,6 +4,7 @@ created_at: 2024-06-23 13:29
 ---
 
 Mein geliebtes Krümeleinhorn, 
+
 Ich weiß, dass du nie einen richten Liebesbrief oder gar eine aufrichtige Entschuldigung von mir erhalten hast, weswegen ich dies gerne mit diesem Brief ändern will. 
 
 Können wir nicht von vorne beginnen? Uns neu kennen lernen. Alles auf Anfang?
