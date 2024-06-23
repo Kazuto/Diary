@@ -79,7 +79,7 @@ Wie wir zu allen Liedern von Crazy Ex-Girlfriend mitgesungen und getanzt haben. 
 
 Erinnerungen wie Versengold und Ralf Schmitz live zu sehen, die Besuche beim Bauerntheater, wie wir mit der kleinen zu Rocket Man gesungen und getanzt haben. 
 
-Die gemeinsamen Besuche im Ikea wenn Emily dann die kleinen Schalen bekommt oder auf dem Spielplatz spielt. Familienausflüge in andere Städte und Länder, kulturelle Veranstaltungen erleben, mit der kleinen im Buggy spazieren gehen, sehen wie sie ihre Geschenke öffnet, Tierparks, Spieleparadise, Stadtfeste und Weihnachtensmärkte besuchen und nicht mehr fast nur zu Hause hocken. Ich möchte ein ereignisreiches und erfüllendes Leben, kein monotones und festgefahrenes mehr. 
+Die gemeinsamen Besuche im Ikea wenn Emily dann die kleinen Schalen bekommt oder auf dem Spielplatz spielt. Familienausflüge in andere Städte und Länder, kulturelle Veranstaltungen erleben, mit der kleinen im Buggy spazieren gehen, sehen wie sie ihre Geschenke öffnet, Tierparks, Spieleparadise, Stadtfeste und Weihnachtensmärkte besuchen, mit Emily Eis essen und schwimmen gehen und nicht mehr fast nur zu Hause hocken. Ich möchte ein ereignisreiches und erfüllendes Leben, kein monotones und festgefahrenes mehr. 
 
 Und die Traditionen beibehalten, wie an Weihnachten Drei Haselnüsse gucken oder Braut des Prinzen gucken, eingekuschelt auf der Couch, wenn es dir mal nicht gut geht.
 
