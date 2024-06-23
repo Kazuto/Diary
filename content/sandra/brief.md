@@ -11,21 +11,21 @@ Können wir nicht von vorne beginnen? Uns neu kennen lernen. Alles auf Anfang?
 
 ## Entschuldigung
 
-Ich weiß, dass ich, vor allem im letzten Jahr, ein echt riesiges Arschloch war. Das ich unreif und auf Konfrontation aus war. Und ich weiß auch, dass ich das alles an dir ausgelassen habe und dafür werde ich mir selbst nie verzeihen können. 
+Ich weiß, dass ich, vor allem im letzten Jahr, ein echt riesiges Arschloch war. Das ich unreif und auf Konfrontation aus war. Und ich weiß auch, dass ich das alles an dir ausgelassen habe und dass werde ich mir selbst nie verzeihen können. 
 
-Ich habe dich immer wieder zutiefst verletzt und es selbst nicht einmal gemerkt oder, selbst wenn du es mir gesagt hast, validiert habe sondern die Schuld bei dir oder anderen gesucht  habe, aber nicht bei mir. Aber damit ist jetzt Schluss, denn ich bin nicht so unschuldig wie ich mich gesehen habe. 
+Ich habe dich immer wieder zutiefst verletzt und es selbst nicht einmal gemerkt oder, selbst wenn du es mir gesagt hast, validiert habe sondern die Schuld bei dir oder anderen gesucht  habe, aber nicht bei mir. Und damit ist jetzt Schluss, denn ich bin nicht so unschuldig wie ich mich selbst gesehen habe. 
 
 Mir fiel es schwer mit dem abrupten Wechsel meiner Gefühle umzugehen, wodurch mein inneres Kind zum Vorschein kam und trotzig und wütend wurde. Und dies habe ich leider an dir ausgelassen statt mir helfen zu lassen. Hilfe, die, wie du immer wieder sagtest, ich dringend brauche und jetzt sehe ich wie recht du all die Jahre hattest und immernoch hast. 
 
-Dass ich dir ständig Lösungen gegeben habe, statt deine Gefühle anzunehmen und dich bei diesen zu begleiten. So wie du es dir immer gewünscht und verdient hast.
+Dass ich dir ständig Lösungen gegeben habe, statt deine Gefühle anzunehmen und dich bei diesen zu begleiten. So wie du es dir immer gewünscht und verdient hättest.
 
-Dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe, immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Bedürfnisse und Sorgen eingegangen bin und dich somit nicht gehört und respektiert gefühlt haben lasse.
+Dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe. Immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Bedürfnisse und Sorgen eingegangen bin und dafür gesorgt habe, dass du dich nicht, geliebt, gehört und respektiert gefühlt hast.
 
 Das mit Janna war auch einfach nur ein dummer Versuch dich irgendwie zu vergessen. Ich wollte es dir aber unbedingt erzählen, weil ich keine Geheimnisse mehr vor dir haben will, weil ich offen und ehrlich zu dir sein und dir den Respekt erbringen will, den du verdienst, ich aber in der Vergangenheit nicht erbracht habe. 
 
-Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden, erst als ich alles verloren habe und ganz unten angeben, aber ich kann an der Vergangenheit leider nichts mehr verändern, aber ich kann verändern wie ich mich in Zukunft verhalte und reagiere. Und das will und muss ich dringen ändern, wenn ich eine Chance auf eine gemeinsame Zukunft mit dir und Emily als Familie haben will. 
+Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden, erst als ich alles verloren habe und ganz unten angekommen bin. Leider kann ich an der Vergangenheit nichts mehr verändern, aber ich kann verändern wie ich mich in Zukunft verhalte und reagiere. Und das will und muss ich dringen ändern, wenn ich eine Chance auf eine gemeinsame Zukunft mit dir und Emily als Familie haben will. 
 
-All dies tut mir so unfassbar schrecklich leid und vielleicht kannst du mir irgendwann verzeihen.
+All dies tut mir so unendlich leid und vielleicht kannst du mir dass irgendwann verzeihen.
 
 Ich wollte solche Gefühle und Trauma nie in dir auslösen, habe es aber leider trotzdem immer wieder gemacht. 
 
