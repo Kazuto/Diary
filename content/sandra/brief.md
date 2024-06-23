@@ -41,7 +41,7 @@ In vielen Dingen hatten wir oft verschiedene Meinungen, die für interessante, s
 
 Ich möchte auch eine gesunde und erwachsene Beziehung mit dir führen, eine Beziehung auf Augenhöhe, eine die du verdient hast. Eine in der du respektiert wirst und du dich sicher fühlen kannst, und keine wo dein Partner noch ein Kind ist.
 
-Nur zu gerne würde wieder mit dir zurück in die Zeit wollen bevor wir die WG gegründet haben, bevor mich jede einzelne Kleinigkeit zum ausrasten gebracht hat. Bevor ich dich durch die Hölle gejagt und dir für alles die Schuld zugewiesen habe. Damit ich dort, als ich es dir das erste mal versprochen habe, mit der Therapie anfangen kann. 
+Nur zu gerne würde ich wieder mit dir zurück in die Zeit wollen bevor wir die WG gegründet haben, bevor mich jede einzelne Kleinigkeit zum ausrasten gebracht hat. Bevor ich dich durch die Hölle gejagt und dir für alles die Schuld zugewiesen habe. Damit ich dort, als ich es dir das erste mal versprochen habe, mit der Therapie anfangen kann. 
 
 ## Liebe
 
