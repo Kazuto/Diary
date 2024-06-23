@@ -17,13 +17,13 @@ Mir fiel es wahrscheinlich schwer mit dem abrupten Wechsel meiner Gefühle umzug
 
 Ich wollte dir auch nie Lösungen vorkauen, wirklich nicht, sondern deine Gefühle annehmen und dich bei diesen Begleiten. So wie du es dir immer gewünscht hast. Habe dies aber leider nie gemacht.
 
-Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden und ich kann an der Vergangenheit nichts verändern, aber ich kann verändern wie ich mich in Zukunft verhalte und reagiere. 
-
 Es tut mir so unfassbar von Herzen leid, dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe, immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Bedürfnisse und Sorgen eingegangen bin und dich somit nicht gehört und respektiert gefühlt haben lasse. All das habe ich leider viel zu spät realisiert. 
 
 Das mit Janna war auch einfach nur ein dummer Versuch dich irgendwie zu vergessen. Ich habe es dir erzählt, weil ich keine Geheimnisse mehr vor dir haben will, weil ich offen und ehrlich zu dir sein will und dir den Respekt erbringen will, den du verdienst, ich aber in der Vergangenheit nicht erbracht habe. 
 
-Ich weiß, dass ich viel Scheiße gebaut habe, dein Vertrauen immer wieder ausgenutzt und dich wiederholt verletzt habe aber ich weiß auch, jetzt wo ich ganz unten angekommen bin, dass ich mich ändern muss und will wenn ich eine Zukunft mit dir haben will.
+Ich weiß auch, dass ich all dies mit meinem Verhalten ruiniert habe, dich immer wieder verletzt habe ohne es zu merken, und selbst wenn du es mir gesagt hast, ich nicht drauf eingegangen bin sondern die Schuld bei dir gesucht habe, aber jetzt wo ich ganz unten angekommen bin, weiß ich, dass ich mich ändern muss und will wenn ich eine Zukunft mit dir haben will. 
+
+Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden und ich kann an der Vergangenheit nichts verändern, aber ich kann verändern wie ich mich in Zukunft verhalte und reagiere.
 
 Das ist selbstverständlich keine Rechtfertigung für mein Verhalten, das ist mir schmerzlich bewusst. 
 
@@ -33,9 +33,11 @@ Ich möchte so sehr wieder der Mann an deiner Seite sein, aber als Mann den du v
 
 Ich möchte mit dir zusammen Emily aufwachsen sehen, ihr mit dir bei Schulaufgaben helfen, mit dir zusammen ihre ersten Male erleben, zusammen Freizeitparks besuchen und Emily's erste Achterbahn erleben. Ich möchte, dass wir wieder eine Familie werden, wie wir sie bis vor kurzem noch waren. 
 
-In vielen Dingen hatten wir oft verschiedene Meinungen, die für interessante, stressige oder hitzige Diskussionen sorgten aber wenn wir mal der gleichen Meinung waren sind wir in dem Thema so aufgeblüht, konnten uns so sehr dafür begeistern und oft stundenlang drüber reden. Diese möchte ich gerne wiedee mehr mit dir haben. 
+In vielen Dingen hatten wir oft verschiedene Meinungen, die für interessante, stressige oder hitzige Diskussionen sorgten aber wenn wir mal der gleichen Meinung waren sind wir in dem Thema so aufgeblüht, konnten uns so sehr dafür begeistern und oft stundenlang drüber reden. Diese möchte ich gerne wieder mehr mit dir haben. 
 
 Ich möchte auch eine gesunde und erwachsene Beziehung mit dir führen, eine Beziehung auf Augenhöhe, eine die du verdient hast. Eine in der du respektiert wirst und du dich sicher fühlen kannst, und keine wo dein Partner noch ein Kind ist.
+
+Nur zu gerne würde wieder mit dir zurück in die Zeit wollen bevor wir die WG gegründet haben, bevor mich jede einzelne Kleinigkeit zum ausrasten gebracht hat. Bevor ich dich durch die Hölle gejagt und dir für alles die Schuld zugewiesen habe. Damit ich dort, als ich es dir das erste mal versprochen habe, mit der Therapie anfangen kann. 
 
 ## Liebe
 
@@ -125,14 +127,16 @@ Ich bitte dich nur mir die Möglichkeit zu geben dir zeigen und beweisen zu kön
 
 Und damit meine ich nicht sofort sondern wir uns aufs Neue kennen lernen, auf Dates gehen, die wir nie gemacht haben, tiefgründige Gespräche führen, Ausflüge mit Emily machen und uns somit vielleicht langsam wieder annähern.
 
-Es fällt mir echt schwer diesen Brief zu schreiben, weil ich mich mit mir selbst konfrontieren, mein Handeln reflektieren und tief in mir graben muss und mir somit immer mehr Sachen einfallen, die ich falsch, wenn nicht beschissen, gemacht habe und definitiv hätte besser machen können. Wäre dieser Brief auf Papier geschrieben, hätte er so viele Wasserflecken von den Tränen die ich beim Schreiben vergieße.
+Ich weiß, dass das ein sehr schwieriger und harter Weg werden wird, ein Weg der vielleicht nicht mit Erfolg gekrönt ist, weil ich dein Vertrauen und deine Liebe ganz aufs Neue zurück gewinnen muss, jedoch nehme ich dafür alles auf mich. Ich habe angefangen an mir zu arbeiten, wirklich, und werde auch weiterhin an mir arbeiten weil ich weiterhin eine gemeinsame Zukunft mit uns als Familie will, aber eine gesunde Familie die auf Vertrauen und Ehrlichkeit aufbaut. 
 
-Ich weiß aber natürlich auch, dass du wahrscheinlich furchtbare Angst hast erneut durch mich verletzt zu werden, dass das doch nur wieder leere Versprechungen sind an die ich mich am Ende doch nicht halte, wenn du mir doch eine Chance gibst. Ich weiß, wie schwer es dir fallen muss, für mich auch nur ein Fünkchen Vertrauen aufzubringen, nachdem ich dein Vertrauen so oft missbraucht habe. Ich kann dir nur sagen, dass es diesmal anders für mich ist, denn ich würde dich kein zweites Mal verlieren wollen und wirklich alles erdenkliche tun damit wir ein langes und glückliches Leben zusammen haben. 
+Ich weiß aber natürlich auch, dass du bestimmt furchtbare Angst hast erneut durch mich verletzt zu werden, dass das doch nur wieder leere Versprechungen sind an die ich mich am Ende doch nicht halte, wenn du mir doch eine Chance gibst. Ich weiß, wie schwer es dir fallen muss, für mich auch nur ein Fünkchen Vertrauen aufzubringen, nachdem ich dein Vertrauen so oft missbraucht habe. Ich kann dir nur sagen, dass es diesmal anders für mich ist, denn ich würde dich kein zweites Mal verlieren wollen und wirklich alles erdenkliche tun damit wir ein langes und glückliches Leben zusammen haben. 
 
 Bitte schreib mich nach neun Jahren nicht einfach so ab und gib mich nicht auf. Lass mich dir zu zeigen, dass ich endlich bereit bin mich zu ändern und mich bereits am verändern bin, wenn auch in kleinen Schritten. 
 
 Ich wünsche und erhoffe mir, dass dieser Brief als erster Indikator wirkt und du ihn auch so annimmst, denn hier steckt sehr viel Herzblut und Tränen drin. 
 
 Gib uns bitte die Möglichkeit als Familie wieder zusammen zu finden. 
+
+Es fällt mir echt schwer diesen Brief zu schreiben, weil ich mich mit mir selbst konfrontieren, mein Handeln reflektieren und tief in mir graben muss und mir somit immer mehr Sachen einfallen, die ich falsch, wenn nicht beschissen, gemacht habe und definitiv hätte besser machen können. Wäre dieser Brief auf Papier geschrieben, hätte er so viele Wasserflecken von den Tränen die ich beim Schreiben vergieße. 
 
 Ich werde dich für immer lieben, denn du wirst immer mein geliebtes Krümeleinhorn bleiben. 
