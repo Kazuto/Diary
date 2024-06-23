@@ -20,6 +20,10 @@ Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden und ich k
 
 Es tut mir so unfassbar von Herzen leid, dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe, immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Bedürfnisse und Sorgen eingegangen bin und dich somit nicht gehört und respektiert gefühlt haben lasse. All das habe ich leider viel zu spät realisiert. 
 
+Das mit Janna war auch einfach nur ein dummer Versuch dich irgendwie zu vergessen. Ich habe es dir erzählt, weil ich keine Geheimnisse mehr vor dir haben will, weil ich offen und ehrlich zu dir sein will und dir den Respekt erbringen will, den du verdienst, ich aber in der Vergangenheit nicht erbracht habe. 
+
+Ich weiß, dass ich viel Scheiße gebaut habe, dein Vertrauen immer wieder ausgenutzt und dich wiederholt verletzt habe aber ich weiß auch, jetzt wo ich ganz unten angekommen bin, dass ich mich ändern muss und will wenn ich eine Zukunft mit dir haben will.
+
 Das ist selbstverständlich keine Rechtfertigung für mein Verhalten, das ist mir schmerzlich bewusst. 
 
 ## Bedürfnis
@@ -38,21 +42,45 @@ Du bist die schönste, sympathischste, humorvollste und klügste Frau die ich je
 
 Ich habe es so sehr genossen mich in deine Augen zu verlieren, dein Stimme und dein Lachen zu hören, deine Hand in meiner zu spüren. Die Wärme und Geborgenheit die du versprühst zu erfahren wenn wir gekuschelt haben. Du konntest mich immer zum Lachen bringen, auch wenn mir nicht zum Lachen zu Mute war. Wir konnten uns anfangst auch nie wirklich böse sein und mussten sofort lachen, als wir uns wieder gegenseitig angesehen haben. Ich fand es immer wieder schön, wie wir uns gegenseitig intellektuell herausgefordert oder gegenseitig zum Lachen gebracht haben. 
 
+Du hast mein Leben in so vielen Aspekten bereichert, du hast mir gezeigt was es heißt zu lieben, was es heißt füreinander einzustehen, hast Farbe, Wärme, Licht und Humor in mein Leben gebracht. Du hast mir Zuneigung und Intimität geschenkt, die ich so nie für möglich gehalten habe. Du hast mir so viele schöne Erinnerungen und eine wundervolle Tochter geschenkt, klasse Bands, Serien und Filme gezeigt, mich intellektuell gefordert und gefördert, mit mir gelacht und geweint. Und mein Dank dafür war, dass ich dich immer wieder verletzt habe. 
+
+Aber trotz der ganzen Scheiße die wir zusammen durch gemacht haben, uns teils die Köpfe eingeschlagen haben, zugegeben fast ausschließlich wegen mir, habe ich mich immer für dich entschieden und werde mich immer wieder für dich entscheiden weil ich dich von ganzem Herzen und mit jeder Faser liebe und ich fest an unsere Beziehung glaube und auch daran, dass wir in Zukunft auch alles zusammen durchstehen können, wenn ich an mir gearbeitet habe. Wenn ich zu mir gefunden habe und einen gesunden Umgang mit meinen Traumata und Gefühlen gefunden habe. 
+
+Angefangen hat unsere Beziehung vielleicht als Trauma-Bond aber über die Jahre, die Erfahrungen und Erlebnisse wurde diese Beziehung zu so viel mehr als nur das. Es wurde ein inniges Feuer, das ich leider in der letzten Zeit habe verglimmen lassen. Aber wo noch eine Glut ist, kann erneut ein Feuer entfachen. Davon bin ich fest überzeugt. 
+
+Und ja, während meines Aufenthaltes in der Klinik habe ich jemanden kennen gelernt, aber nicht Janna. Als wir beide uns dann aber im Wohnzimmer meiner Mutter geküsst haben wusste ich, dass es für mich immer nur dich geben wird und habe das sofort beendet, da ich sonst in einer Beziehung gewesen wäre, die sich für mich einfach nicht richtig angefühlt hätte. Ich dachte unsere erneute Annäherung war der erste kleine Funke, der die Glut wieder zu einer kleinen Flamme hat werden lassen kann. 
+
+Und natürlich hänge ich an dir, denn du bist einfach die Liebe meines Lebens, meine Seelenverwandte. Das war damals schon so und bist es immernoch, denn du warst alles nachdem ich immer gesucht habe. Ich hätte mich sonst nicht immer für dich entschieden, als die Sache mit Dina war, als die Sache in der Klinik war, wenn wir Streit hatten und ich abgehauen, aber auch wieder zurück gekommen bin. 
+
+Ich wusste immer tief in mir drin, dass mein Herz nur für dich und für niemand anderes schlägt. Und das merke ich immer und immer wieder, denn egal mit wie vielen ich in den Kontakt trete oder wie gut auch die Unterhaltungen sind, ich habe mich nie mit jemandem lieber und besser unterhalten als mit dir, weil niemand dir auch nur ansatzweise das Wasser halten kann, da es für dich auch einfach keinen Ersatz für mich gibt. 
+
+Du bist die Frau mit der ich alt werden will, mit der ich die Sonnenauf- und Untergänge erleben und genießen will. Der ich Frühstück ans Bett bringen will, um die ich mich bei Krankheit kümmern will. In deren Gesicht ich sehen will wenn Emily uns zum Lachen bringt. Deren Lachen ich hören will und in deren Braun-grünen Augen ich mich weiterhin verlieren und immer wieder aufs neue verlieben will, in deren Hand ich meine lege und umgekehrt, deren Hals ich küssen will ich ich weiß das es kitzelt und zum Lachen bringt. Mit der ich meine tiefsten Gedanken, Gefühle und intimentsten Momente teilen will. Für die ich gerne Stunden in der Küche stehe um dir deine Lieblingsspeisen zu backen.
+
+Das will ich mit niemanden außer dir erleben, denn für mich wird es immer nur dich geben. Du hast mich so tief in meinem Inneren berührt, dass ich mich das erste Mal in meinem Leben in einer Beziehungen wirklich geliebt, sicher und zu Hause gefühlt habe. 
+
+Noch heute trage ich unser Bild vom Spaziergang im Schnee im Portemonnaie, weil es für mich eine der schönsten Erinnerungen von uns beiden ist, nach Emily's Geburt und unserer Hochzeit. 
+ 
+Ich liebe und vermisse dich und Emily so unfassbar sehr und wünsche mir nichts mehr, als wieder eine Familie zu werden. Nicht jetzt, nicht sofort, aber vielleicht irgendwann. 
+
+Du bist mein zweites Herz und ohne dich bin ich einfach nicht komplett. So wie der Doctor ohne Tardis, Tennant ohne Rose, Elmo ohne seine Kuscheldecke oder Krümelmonster ohne Kekse. 
+
+Wie Doctor Strange so schön sagt: "I Love You. I Love You In Every Universe." Oder Professor Snape als Dumbledore ihn fragt: "After all this time?" er mit "Always" antwortet.  
+
 Ja, unsere Beziehung war nicht perfekt, und ich habe dich immer wieder verletzt jedoch hatte die Beziehung nicht nur schwierige oder schlechte Zeiten. Wir haben auch viele schöne Erinnerungen sammeln können. 
+
+## Erinnerungen
 
 Unser erster Kuss vor dem Elisabeth, die ganzen Filme die wir angefangen, aber nie zu Ende geguckt haben, als du mitten in der Nacht wegen einer Spinne in der Kellerwohnung angerufen hättest, die Feste auf der Paul-Moor Schule, die gemeinsamen Besuche auf der Gamescom und dem Kikos Stand, die Tage im Phantasialand, die zahlreichen Kino- und Restaurantsbesuche, Geburtstage und Feierlichkeiten mit der Familie, die Konzerte und Live-Auftritte auf die wir gegangen sind, die Spaziergänge im Schnee. 
 
 Als wir Lubo gesehen und am nächsten Tag mit nach Hause nehmen durften und die ganzen Spaziergänge durch den Wald mit ihm. Als wir geheiratet haben und als wir kurz danach ins Haus gezogen sind, als Emily geboren wurde und KURZ darauf Yuna vier richtig süße Welpen geboren hatte, als Emily mir voll ins Gesicht gespuckt hat oder zum ersten Mal krabbelte und kurz darauf ihre ersten Schritte lief. 
 
-Wie wir zu allen Liedern von Crazy Ex-Girlfriend mitgesungen und getanzt haben. Wie wir uns gegenseitig kuschelnd den Rücken gekratzt haben, oder welche Befriedigung du empfandst mir die Haare mit der Pinzette zu zupfen. Wie du dich gefreut hast, wenn ich dir Zimtschnecken oder Hefezöpfe buk. Als wir das erste Mal am Meer waren oder Emily in ihre erste Zitrone gebissen hat. Die ganzen unruhigen Nächte wenn Emily nicht schlafen wollte und ich sie in der Trage oder Kinderwagen zum schlafen gebracht habe. 
+Wie wir zu allen Liedern von Crazy Ex-Girlfriend mitgesungen und getanzt haben. Wie wir uns gegenseitig kuschelnd den Rücken gekratzt haben, oder welche Befriedigung du empfandst mir die Haare mit der Pinzette zu zupfen. Wie du dich gefreut hast, wenn ich dir Zimtschnecken oder Hefezöpfe buk. Als wir das erste Mal am Meer waren oder Emily in ihre erste Zitrone gebissen hat. Die ganzen unruhigen Nächte wenn Emily nicht schlafen wollte und ich sie in der Trage oder Kinderwagen zum schlafen gebracht habe.  
 
-## Erinnerungen
-
-Erinnerungen wie Versengold und Ralf Schmitz live zu sehen, die Besuche beim Bauerntheater oder die gemeinsamen Kinogänge mit der Familie, wie wir mit der kleinen zu Rocket Man gesungen und getanzt haben oder als sie ihre erste Zitrone gegessen hat. Als sie ihre ersten Schritte gemacht hat oder sobald sie ihre ersten richtigen Worte spricht. 
+Erinnerungen wie Versengold und Ralf Schmitz live zu sehen, die Besuche beim Bauerntheater, wie wir mit der kleinen zu Rocket Man gesungen und getanzt haben. 
 
 Die gemeinsamen Besuche im Ikea wenn Emily dann die kleinen Schalen bekommt oder auf dem Spielplatz spielt. Familienausflüge in andere Städte und Länder, kulturelle Veranstaltungen erleben, mit der kleinen im Buggy spazieren gehen, sehen wie sie ihre Geschenke öffnet, Tierparks, Spieleparadise, Stadtfeste und Weihnachtensmärkte besuchen und nicht mehr fast nur zu Hause hocken. Ich möchte ein ereignisreiches und erfüllendes Leben, kein monotones und festgefahrenes mehr. 
 
-Und die Traditionen beibehalten, wie an Weihnachten Drei Haselnüsse gucken oder Braut des Prinzen gucken, eingekuschelt auf der Couch, wenn es dir mal nicht gut geht. Für dich und die kleine meine Zimtschnecken oder Hefezöpfe backen. 
+Und die Traditionen beibehalten, wie an Weihnachten Drei Haselnüsse gucken oder Braut des Prinzen gucken, eingekuschelt auf der Couch, wenn es dir mal nicht gut geht.
 
 Erinnerst du dich noch an unsere Hochzeit? Wie ich dich angesehen habe als ich dich das erste Mal in deinem Kleid gesehen habe? Wie verliebt wir uns angeguckt haben, als wir uns das Ja-Wort gegeben haben. Ich den Moment habe ich meine beste Freundin und bessere Hälfte zur Frau genommen und ein Lebensziel ist in Erfüllung gegangen. 
 
@@ -79,36 +107,6 @@ Ich möchte nicht mehr, dass du die emotionale Arbeit für mich erledigen musst,
 Ich will selbst mit meinen Emotionen in Einklang kommen und einen Umgang finden, für meine Bedürfnisse einstehen können und klare Kommunikation ohne Vorwürfe oder Schuldzuweisungen schaffen. Ich will in der Lage sein mein Handeln reflektiert betrachten und Fehler eingestehen zu können und nicht mehr die Fehler auf andere zu münzen.
 
 Ich bin auch bereit zur Paartherapie gehen, damit wir vielleicht wieder zusammen finden und glücklich werden können oder wir es zumindest versucht haben.
-
-## Liebe
-
-Angefangen hat unsere Beziehung vielleicht als Trauma-Bond aber über die Jahre, die Erfahrungen und Erlebnisse wurde diese Beziehung zu so viel mehr als nur das. Es wurde ein inniges Feuer, das ich leider in der letzten Zeit habe verglimmen lassen. Aber wo noch eine Glut ist, kann erneut ein Feuer entfachen. Davon bin ich fest überzeugt. 
-
-Während meines Aufenthaltes in der Klinik habe ich jemanden kennen gelernt, nicht Janna. Aber als wir beide uns dann im Wohnzimmer meiner Mutter geküsst haben wusste ich, dass es für mich immer nur dich geben wird und habe das sofort beendet, da ich sonst in einer Beziehung gewesen wäre, die sich für mich einfach nicht richtig angefühlt hätte. Ich dachte unsere erneute Annäherung war der erste kleine Funke, der die Glut wieder zu einer kleinen Flamme hat werden lassen kann. 
-
-Und natürlich hänge ich an dir, denn du bist einfach die Liebe meines Lebens, meine Seelenverwandte. Das war damals schon so und bist es immernoch, denn du warst alles nachdem ich immer gesucht habe. Ich hätte mich sonst nicht immer für dich entschieden, als die Sache mit Dina war, als die Sache in der Klinik war, wenn wir Streit hatten und ich abgehauen, aber auch wieder zurück gekommen bin. 
-
-Ich wusste immer tief in mir drin, dass mein Herz nur für dich und für niemand anderes schlägt. Und das merke ich immer und immer wieder, denn egal mit wie vielen ich in den Kontakt trete oder wie gut auch die Unterhaltungen sind, ich habe mich nie mit jemandem lieber und besser unterhalten als mit dir, weil niemand dir auch nur ansatzweise das Wasser halten kann, da es für dich auch einfach keinen Ersatz für mich gibt. 
-
-Du bist die Frau mit der ich alt werden will, mit der ich die Sonnenauf- und Untergänge erleben und genießen will. Der ich Frühstück ans Bett bringen will, um die ich mich bei Krankheit kümmern will. In deren Gesicht ich sehen will wenn Emily uns zum Lachen bringt. Deren Lachen ich hören will und in deren Braun-grünen Augen ich mich weiterhin verlieren und immer wieder aufs neue verlieben will, in deren Hand ich meine lege und umgekehrt, deren Hals ich küssen will ich ich weiß das es kitzelt und zum Lachen bringt. Mit der ich meine tiefsten Gedanken, Gefühle und intimentsten Momente teilen will. Für die ich gerne Stunden in der Küche stehe um dir deine Lieblingsspeisen zu backen.
-
-Das will ich mit niemanden außer dir erleben, denn für mich wird es immer nur dich geben. Du hast mich so tief in meinem Inneren berührt, dass ich mich das erste Mal in meinem Leben in einer Beziehungen wirklich geliebt, sicher und zu Hause gefühlt habe. 
-
-Noch heute trage ich unser Bild vom Spaziergang im Schnee im Portemonnaie, weil es für mich eine der schönsten Erinnerungen von uns beiden ist, nach Emily's Geburt und unserer Hochzeit. 
-
-Du hast mein Leben in so vielen Aspekten bereichert, du hast mir gezeigt was es heißt zu lieben, was es heißt füreinander einzustehen, hast Farbe, Wärme, Licht und Humor in mein Leben gebracht. Du hast mir Zuneigung und Intimität geschenkt, die ich so nie für möglich gehalten habe. Du hast mir so viele schöne Erinnerungen und eine wundervolle Tochter geschenkt, klasse Bands, Serien und Filme gezeigt, mich intellektuell gefordert und gefördert, mit mir gelacht und geweint. Und mein Dank dafür war, dass ich dich immer wieder verletzt habe. 
-
-Aber trotz der ganzen Scheiße die wir zusammen durch gemacht haben, uns teils die Köpfe eingeschlagen haben, zugegeben fast ausschließlich wegen mir, habe ich mich immer für dich entschieden und werde mich immer wieder für dich entscheiden weil ich dich von ganzem Herzen und mit jeder Faser liebe und ich fest an unsere Beziehung glaube und auch daran, dass wir in Zukunft auch alles zusammen durchstehen können, wenn ich an mir gearbeitet habe. Wenn ich zu mir gefunden habe und einen gesunden Umgang mit meinen Traumata und Gefühlen gefunden habe. 
-
-Das mit Janna war auch einfach nur ein dummer Versuch dich irgendwie zu vergessen. Ich habe es dir erzählt, weil ich keine Geheimnisse mehr vor dir haben will, weil ich offen und ehrlich zu dir sein will und dir den Respekt erbringen will, den du verdienst, ich aber in der Vergangenheit nicht erbracht habe. 
-
-Ich weiß, dass ich viel Scheiße gebaut habe, dein Vertrauen immer wieder ausgenutzt und dich wiederholt verletzt habe aber ich weiß auch, jetzt wo ich ganz unten angekommen bin, dass ich mich ändern muss und will wenn ich eine Zukunft mit dir haben will. 
-
-Ich liebe und vermisse dich und Emily so unfassbar sehr und wünsche mir nichts mehr, als wieder eine Familie zu werden. Nicht jetzt, nicht sofort, aber vielleicht irgendwann. 
-
-Du bist mein zweites Herz und ohne dich bin ich einfach nicht komplett. So wie der Doctor ohne Tardis, Tennant ohne Rose, Elmo ohne seine Kuscheldecke oder Krümelmonster ohne Kekse. 
-
-Wie Doctor Strange so schön sagt: "I Love You. I Love You In Every Universe." Oder Professor Snape als Dumbledore ihn fragt: "After all this time?" er mit "Always" antwortet. 
 
 ## Schmerz
 
