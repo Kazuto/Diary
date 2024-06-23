@@ -30,9 +30,21 @@ Ich möchte mit dir zusammen Emily aufwachsen sehen, ihr mit dir bei Schulaufgab
 
 In vielen Dingen hatten wir oft verschiedene Meinungen, die für interessante, stressige oder hitzige Diskussionen sorgten aber wenn wir mal der gleichen Meinung waren sind wir in dem Thema so aufgeblüht, konnten uns so sehr dafür begeistern und oft stundenlang drüber reden. Diese möchte ich gerne wiedee mehr mit dir haben. 
 
-Ich möchte auch eine gesunde und erwachsene Beziehung mit dir führen, eine Beziehung auf Augenhöhe, eine die du verdient hast. Eine in der du respektiert wirst und du dich sicher fühlen kannst, und keine wo dein Partner noch ein Kind ist. 
+Ich möchte auch eine gesunde und erwachsene Beziehung mit dir führen, eine Beziehung auf Augenhöhe, eine die du verdient hast. Eine in der du respektiert wirst und du dich sicher fühlen kannst, und keine wo dein Partner noch ein Kind ist.
 
-Noch viele weitere schöne Erinnerungen mit dir und Emily als Familie schaffen.
+## Liebe
+
+Du bist die schönste, sympathischste, humorvollste und klügste Frau die ich je kennengelernt habe, und heute noch mehr als den je, denn du hast stetig an dir gearbeitet und dich weiterentwickelt. Im Gegensatz zu mir. 
+
+Ich habe es so sehr genossen mich in deine Augen zu verlieren, dein Stimme und dein Lachen zu hören, deine Hand in meiner zu spüren. Die Wärme und Geborgenheit die du versprühst zu erfahren wenn wir gekuschelt haben. Du konntest mich immer zum Lachen bringen, auch wenn mir nicht zum Lachen zu Mute war. Wir konnten uns anfangst auch nie wirklich böse sein und mussten sofort lachen, als wir uns wieder gegenseitig angesehen haben. Ich fand es immer wieder schön, wie wir uns gegenseitig intellektuell herausgefordert oder gegenseitig zum Lachen gebracht haben. 
+
+Ja, unsere Beziehung war nicht perfekt, und ich habe dich immer wieder verletzt jedoch hatte die Beziehung nicht nur schwierige oder schlechte Zeiten. Wir haben auch viele schöne Erinnerungen sammeln können. 
+
+Unser erster Kuss vor dem Elisabeth, die ganzen Filme die wir angefangen, aber nie zu Ende geguckt haben, als du mitten in der Nacht wegen einer Spinne in der Kellerwohnung angerufen hättest, die Feste auf der Paul-Moor Schule, die gemeinsamen Besuche auf der Gamescom und dem Kikos Stand, die Tage im Phantasialand, die zahlreichen Kino- und Restaurantsbesuche, Geburtstage und Feierlichkeiten mit der Familie, die Konzerte und Live-Auftritte auf die wir gegangen sind, die Spaziergänge im Schnee. 
+
+Als wir Lubo gesehen und am nächsten Tag mit nach Hause nehmen durften und die ganzen Spaziergänge durch den Wald mit ihm. Als wir geheiratet haben und als wir kurz danach ins Haus gezogen sind, als Emily geboren wurde und KURZ darauf Yuna vier richtig süße Welpen geboren hatte, als Emily mir voll ins Gesicht gespuckt hat oder zum ersten Mal krabbelte und kurz darauf ihre ersten Schritte lief. 
+
+Wie wir zu allen Liedern von Crazy Ex-Girlfriend mitgesungen und getanzt haben. Wie wir uns gegenseitig kuschelnd den Rücken gekratzt haben, oder welche Befriedigung du empfandst mir die Haare mit der Pinzette zu zupfen. Wie du dich gefreut hast, wenn ich dir Zimtschnecken oder Hefezöpfe buk. Als wir das erste Mal am Meer waren oder Emily in ihre erste Zitrone gebissen hat. Die ganzen unruhigen Nächte wenn Emily nicht schlafen wollte und ich sie in der Trage oder Kinderwagen zum schlafen gebracht habe. 
 
 ## Erinnerungen
 
