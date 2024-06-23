@@ -52,6 +52,6 @@
   }
 
 h2 + p {
-    @apply mt-4 MB-2 text-lg;
+    @apply mt-4 mb-2 text-lg;
   } 
 }
