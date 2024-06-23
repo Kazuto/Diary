@@ -11,21 +11,25 @@ Können wir nicht von vorne beginnen? Uns neu kennen lernen. Alles auf Anfang?
 
 ## Entschuldigung
 
-Ich weiß, dass ich, vor allem im letzten Jahr, ein echt riesiges Arschloch war. Das ich unreif und auf Konfrontation aus war. Und ich weiß auch, dass ich das alles an dir ausgelassen habe und dafür werde ich mir selbst nie verzeihen können. Ich habe dich immer wieder zutiefst verletzt und es selbst nicht einmal gemerkt und das tut mir so unfassbar sehr leid. Ich wollte solche Gefühle und Trauma nie in dir auslösen, habe es aber leider trotzdem gemacht. 
+Ich weiß, dass ich, vor allem im letzten Jahr, ein echt riesiges Arschloch war. Das ich unreif und auf Konfrontation aus war. Und ich weiß auch, dass ich das alles an dir ausgelassen habe und dafür werde ich mir selbst nie verzeihen können. 
 
-Mir fiel es wahrscheinlich schwer mit dem abrupten Wechsel meiner Gefühle umzugehen, wodurch mein inneres Kind zum Vorschein kam und trotzig und wütend wurde. Und dies habe ich leider immer wieder an dir ausgelassen statt mir helfen zu lassen. Hilfe, die du immer wieder sagtest, die ich brauche und du hast recht. Leider musste ich erst alles verlieren um das zu sehen. 
+Ich habe dich immer wieder zutiefst verletzt und es selbst nicht einmal gemerkt oder, selbst wenn du es mir gesagt hast, validiert habe sondern die Schuld bei dir oder anderen gesucht  habe, aber nicht bei mir. Aber damit ist jetzt Schluss, denn ich bin nicht so unschuldig wie ich mich gesehen habe. 
 
-Ich wollte dir auch nie Lösungen vorkauen, wirklich nicht, sondern deine Gefühle annehmen und dich bei diesen Begleiten. So wie du es dir immer gewünscht hast. Habe dies aber leider nie gemacht.
+Mir fiel es schwer mit dem abrupten Wechsel meiner Gefühle umzugehen, wodurch mein inneres Kind zum Vorschein kam und trotzig und wütend wurde. Und dies habe ich leider an dir ausgelassen statt mir helfen zu lassen. Hilfe, die, wie du immer wieder sagtest, ich dringend brauche und jetzt sehe ich wie recht du all die Jahre hattest und immernoch hast. 
 
-Es tut mir so unfassbar von Herzen leid, dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe, immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Bedürfnisse und Sorgen eingegangen bin und dich somit nicht gehört und respektiert gefühlt haben lasse. All das habe ich leider viel zu spät realisiert. 
+Dass ich dir ständig Lösungen gegeben habe, statt deine Gefühle anzunehmen und dich bei diesen zu begleiten. So wie du es dir immer gewünscht und verdient hast.
 
-Das mit Janna war auch einfach nur ein dummer Versuch dich irgendwie zu vergessen. Ich habe es dir erzählt, weil ich keine Geheimnisse mehr vor dir haben will, weil ich offen und ehrlich zu dir sein will und dir den Respekt erbringen will, den du verdienst, ich aber in der Vergangenheit nicht erbracht habe. 
+Dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe, immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Bedürfnisse und Sorgen eingegangen bin und dich somit nicht gehört und respektiert gefühlt haben lasse.
 
-Ich weiß auch, dass ich all dies mit meinem Verhalten ruiniert habe, dich immer wieder verletzt habe ohne es zu merken, und selbst wenn du es mir gesagt hast, ich nicht drauf eingegangen bin sondern die Schuld bei dir gesucht habe, aber jetzt wo ich ganz unten angekommen bin, weiß ich, dass ich mich ändern muss und will wenn ich eine Zukunft mit dir haben will. 
+Das mit Janna war auch einfach nur ein dummer Versuch dich irgendwie zu vergessen. Ich wollte es dir aber unbedingt erzählen, weil ich keine Geheimnisse mehr vor dir haben will, weil ich offen und ehrlich zu dir sein und dir den Respekt erbringen will, den du verdienst, ich aber in der Vergangenheit nicht erbracht habe. 
 
-Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden und ich kann an der Vergangenheit nichts verändern, aber ich kann verändern wie ich mich in Zukunft verhalte und reagiere.
+Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden, erst als ich alles verloren habe und ganz unten angeben, aber ich kann an der Vergangenheit leider nichts mehr verändern, aber ich kann verändern wie ich mich in Zukunft verhalte und reagiere. Und das will und muss ich dringen ändern, wenn ich eine Chance auf eine gemeinsame Zukunft mit dir und Emily als Familie haben will. 
 
-Das ist selbstverständlich keine Rechtfertigung für mein Verhalten, das ist mir schmerzlich bewusst. 
+All dies tut mir so unfassbar schrecklich leid und vielleicht kannst du mir irgendwann verzeihen.
+
+Ich wollte solche Gefühle und Trauma nie in dir auslösen, habe es aber leider trotzdem immer wieder gemacht. 
+
+Das ist selbstverständlich keine Rechtfertigung für mein Verhalten, das ist mir durch die Trennung schmerzlich bewusst geworden. 
 
 ## Bedürfnis
 
