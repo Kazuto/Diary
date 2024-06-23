@@ -96,6 +96,16 @@ Ich liebe dich so unfassbar sehr, auch wenn es dir schwer fällt das zu glauben,
 
 Ich habe das alles leider viel zu spät erkannt, erst als ich dich verloren habe und die Angst dich komplett und für immer zu verlieren hat es die Angst mich mit mir selbst und meinen Traumata auseinander zu setzen überstiegen. Aber ich bin, auch wenn es leider viel zu spät ist, bereit das Monster in mir zu konfrontieren und zu überwältigen, damit es nicht mehr zu Vorschein kommen kann. 
 
+## Schmerz
+
+Es tut mir auch unfassbar leid, dass ich dich in den letzten Wochen so extrem bedrängt, belästigt und dir immer wieder mit meinem Suizid gedroht habe. Das war absolut unfair dir gegenüber und kein gesundes erwachsenes Verhalten. Es schmerzt einfach so unfassbar sehr nicht mehr an deiner Seite zu sein und es schmerzt noch mehr zu wissen, dass dort, nach so kurzer Zeit und ohne weitere Chance, jemand anderes ist.
+
+Zu wissen, dass da jemand ist der mehr von deinem und Emily's Leben erlebt als ich, mit dem du ursprünglich deine Zukunft geplant hattest, zerreißt mich innerlich einfach extrem. 
+
+Ich fühle mich einfach wie jemand, der von außen durch das Fenster guckt und sieht wie du mit Emily spielst, während er zu euch kommt und dich küsst. Ihr beide seid so nah und doch unerreichbar für mich. Ich möchte mit dir Emily's Geburtstage feiern, ihr ein schönes Weihnachten schaffen aber nicht als Gast, sondern mit dir zusammen als Gastgeber. Ich möchte noch so viele schöne Erinnerungen als Familie mit euch sammeln.
+
+Es tut auch so unfassbar sehr weh andere Pärchen mit Kindern in der Stadt oder auf dem Spielplatz zu sehen, die glücklich sind und zu wissen, dass ich das alles durch mein Handeln ruiniert und verloren habe. 
+
 ## Versprechen
 
 Ich arbeite an mir und werde auch weiterhin an mir arbeiten und mir jede Hilfe suchen die ich brauche und kriege. Tagesklinik, DBT und Ambulante Therapie. Da gebe ich dir Brief und siegel drauf, denn ich will gesund werden. 
@@ -106,17 +116,7 @@ Ich möchte nicht mehr, dass du die emotionale Arbeit für mich erledigen musst,
 
 Ich will selbst mit meinen Emotionen in Einklang kommen und einen Umgang finden, für meine Bedürfnisse einstehen können und klare Kommunikation ohne Vorwürfe oder Schuldzuweisungen schaffen. Ich will in der Lage sein mein Handeln reflektiert betrachten und Fehler eingestehen zu können und nicht mehr die Fehler auf andere zu münzen.
 
-Ich bin auch bereit zur Paartherapie gehen, damit wir vielleicht wieder zusammen finden und glücklich werden können oder wir es zumindest versucht haben.
-
-## Schmerz
-
-Es tut mir auch unfassbar leid, dass ich dich in den letzten Wochen so extrem bedrängt, belästigt und dir immer wieder mit meinem Suizid gedroht habe. Das war absolut unfair dir gegenüber und kein gesundes erwachsenes Verhalten. Es schmerzt einfach so unfassbar sehr nicht mehr an deiner Seite zu sein und es schmerzt noch mehr zu wissen, dass dort, nach so kurzer Zeit und ohne weitere Chance, jemand anderes ist.
-
-Zu wissen, dass da jemand ist der mehr von deinem und Emily's Leben erlebt als ich, mit dem du ursprünglich deine Zukunft geplant hattest, zerreißt mich innerlich einfach extrem. 
-
-Ich fühle mich einfach wie jemand, der von außen durch das Fenster guckt und sieht wie du mit Emily spielst, während er zu euch kommt und dich küsst. Ihr beide seid so nah und doch unerreichbar für mich. Ich möchte mit dir Emily's Geburtstage feiern, ihr ein schönes Weihnachten schaffen aber nicht als Gast, sondern mit dir zusammen als Gastgeber. Ich möchte noch so viele schöne Erinnerungen als Familie mit euch sammeln.
-
-Es tut auch so unfassbar sehr weh andere Pärchen mit Kindern in der Stadt oder auf dem Spielplatz zu sehen, die glücklich sind und zu wissen, dass ich das alles durch mein Handeln ruiniert und verloren habe. 
+Ich bin auch bereit zur Paartherapie gehen, damit wir vielleicht wieder zusammen finden und glücklich werden können oder wir es zumindest versucht haben. 
 
 ## Bitte 
 
