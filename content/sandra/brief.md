@@ -91,7 +91,7 @@ Wie ich dich angesehen habe als ich dich das erste Mal in deinem Hochzeitskleid 
 
 Wie wir zu allen Liedern von Crazy Ex-Girlfriend mitgesungen und getanzt haben. Wie wir uns gegenseitig kuschelnd den Rücken gekratzt haben, oder welche Befriedigung du empfandst mir die Haare mit der Pinzette zu zupfen. Wie du dich gefreut hast, wenn ich dir Zimtschnecken oder Hefezöpfe buk. 
 
-Als wir Emily's ersten Tritt gesehen, ihren Herzschlag zum ersten Mal gehört oder das erste mal ein Ultraschall-Bild von ihr gesehen haben. Wie ich vor Freude geweint habe, als ich erfuhr, dass wir ein Mädchen bekommen und als wir sie das erste Mal in unseren Armen gehalten haben.
+Als wir Emily's ersten Tritt gesehen, ihren Herzschlag zum ersten Mal gehört oder das erste mal ein Ultraschall-Bild von ihr gesehen haben. Wie ich vor Freude geweint habe, als ich erfuhr, dass wir ein Mädchen bekommen und als wir sie das erste Mal in unseren Armen gehalten haben. Als wir abends zu dritt im Bett lagen, Emily zwischen uns, du am lesen und ich Videos am gucken. 
 
 Oder als Yuna vier richtig süße Welpen geboren hat, als Emily mir voll ins Gesicht gespuckt hat und du aus dem Lachen nicht mehr rauskamst, als sie zum ersten Mal krabbelte und kurz darauf ihre ersten Schritte lief. 
 
