@@ -10,7 +10,7 @@
     }"
   >
 <div class="flex items-start justify-between mb-1">
-<h2 class="text-xl" v-if="doc.title !== undefined || doc.title !==''">
+<h2 class="text-xl" v-if="doc.title !== undefined || doc.title !== null || doc.title !==''">
 {{ doc.title}} 
 </h2>
     <span class="block shrink-0 text-xs text-white/40 text-right">
