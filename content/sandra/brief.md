@@ -11,21 +11,21 @@ Können wir nicht von vorne beginnen? Uns neu kennen lernen. Alles auf Anfang?
 
 ## Entschuldigung
 
-Ich weiß, dass ich, vor allem im letzten Jahr, ein echt riesiges Arschloch war. Das ich unreif und auf Konfrontation aus war. Und ich weiß auch, dass ich das alles an dir ausgelassen habe und dass werde ich mir selbst nie verzeihen können. 
+Ich weiß, dass ich, vor allem im letzten Jahr, ein echt riesiges Arschloch war. Das ich unreif und auf Konfrontation aus war. Und ich weiß auch, dass ich das alles an dir ausgelassen habe und das werde ich mir selbst nie verzeihen können. 
 
-Ich habe dich immer wieder zutiefst verletzt und es selbst nicht einmal gemerkt oder, selbst wenn du es mir gesagt hast, validiert habe sondern die Schuld bei dir oder anderen gesucht  habe, aber nicht bei mir. Und damit ist jetzt Schluss, denn ich bin nicht so unschuldig wie ich mich selbst gesehen habe. 
+Ich habe dich immer wieder zutiefst verletzt und es selbst nicht einmal gemerkt oder, selbst wenn du es mir gesagt hast, validiert, sondern habe die Schuld bei dir oder anderen gesucht, aber nicht bei mir. Doch damit ist jetzt Schluss, denn ich bin nicht so unschuldig wie ich mich selbst immer gesehen habe. 
 
 Mir fiel es schwer mit dem abrupten Wechsel meiner Gefühle umzugehen, wodurch mein inneres Kind zum Vorschein kam und trotzig und wütend wurde. Und dies habe ich leider an dir ausgelassen statt mir helfen zu lassen. Hilfe, die, wie du immer wieder sagtest, ich dringend brauche und jetzt sehe ich wie recht du all die Jahre hattest und immernoch hast. 
 
 Dass ich dir ständig Lösungen gegeben habe, statt deine Gefühle anzunehmen und dich bei diesen zu begleiten. So wie du es dir immer gewünscht und verdient hättest.
 
-Dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe. Immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Bedürfnisse und Sorgen eingegangen bin und dafür gesorgt habe, dass du dich nicht, geliebt, gehört und respektiert gefühlt hast.
+Dass ich dir immer wieder Angst eingejagt und in dir ausgelöst habe. Immer wieder dein Vertrauen missbraucht und dich damit immer wieder (re-)traumatisiert habe, nicht auf deine Gefühle, Bedürfnisse und Sorgen eingegangen bin und dafür gesorgt habe, dass du dich nicht, geliebt, gehört und respektiert gefühlt hast.
 
 Das mit Janna war auch einfach nur ein dummer Versuch dich irgendwie zu vergessen. Ich wollte es dir aber unbedingt erzählen, weil ich keine Geheimnisse mehr vor dir haben will, weil ich offen und ehrlich zu dir sein und dir den Respekt erbringen will, den du verdienst, ich aber in der Vergangenheit nicht erbracht habe. 
 
 Mir ist mein toxisches Verhalten leider viel zu spät bewusst geworden, erst als ich alles verloren habe und ganz unten angekommen bin. Leider kann ich an der Vergangenheit nichts mehr verändern, aber ich kann verändern wie ich mich in Zukunft verhalte und reagiere. Und das will und muss ich dringen ändern, wenn ich eine Chance auf eine gemeinsame Zukunft mit dir und Emily als Familie haben will. 
 
-All dies tut mir so unendlich leid und vielleicht kannst du mir dass irgendwann verzeihen.
+All dies tut mir so unendlich leid und vielleicht kannst du mir das irgendwann verzeihen.
 
 Ich wollte solche Gefühle und Trauma nie in dir auslösen, habe es aber leider trotzdem immer wieder gemacht. 
 
@@ -33,13 +33,13 @@ Das ist selbstverständlich keine Rechtfertigung für mein Verhalten, das ist mi
 
 ## Bedürfnis
 
-Ich möchte so sehr wieder der Mann an deiner Seite sein, aber als Mann den du verdienst und nicht mehr der Mann, der dich verletzt und belogen hat. Diesen Mann will ich hinter mir lassen. 
+Ich möchte so sehr wieder der Mann an deiner Seite sein, aber der Mann den du verdienst und nicht mehr der Mann, der dich verletzt und belogen hat. Diesen Mann will ich hinter mir lassen. 
 
-Ich möchte mit dir zusammen Emily aufwachsen sehen, ihr mit dir bei Schulaufgaben helfen, mit dir zusammen ihre ersten Male erleben, zusammen Freizeitparks besuchen und Emily's erste Achterbahn erleben. Ich möchte, dass wir wieder eine Familie werden, wie wir sie bis vor kurzem noch waren. 
+Ich möchte mit dir zusammen Emily aufwachsen sehen, ihr mit dir bei Schulaufgaben helfen, mit dir zusammen ihre ersten Male erleben, zusammen Freizeitparks besuchen und Emily's erste Achterbahn erleben, mir euch Zoos besuchen. Ich möchte, dass wir wieder eine Familie werden, wie wir sie bis vor kurzem noch waren. 
 
 In vielen Dingen hatten wir oft verschiedene Meinungen, die für interessante, stressige oder hitzige Diskussionen sorgten aber wenn wir mal der gleichen Meinung waren sind wir in dem Thema so aufgeblüht, konnten uns so sehr dafür begeistern und oft stundenlang drüber reden. Diese möchte ich gerne wieder mehr mit dir haben. 
 
-Ich möchte auch eine gesunde und erwachsene Beziehung mit dir führen, eine Beziehung auf Augenhöhe, eine die du verdient hast. Eine in der du respektiert wirst und du dich sicher fühlen kannst, und keine wo dein Partner noch ein Kind ist.
+Ich möchte auch eine gesunde und erwachsene Beziehung mit dir führen, eine Beziehung auf Augenhöhe, eine die du verdient hast. Eine in der du respektiert wirst und du dich sicher und geborgen fühlen kannst, und keine wo dein Partner noch ein Kind ist.
 
 Nur zu gerne würde ich wieder mit dir zurück in die Zeit wollen bevor wir die WG gegründet haben, bevor mich jede einzelne Kleinigkeit zum ausrasten gebracht hat. Bevor ich dich durch die Hölle gejagt und dir für alles die Schuld zugewiesen habe. Damit ich dort, als ich es dir das erste mal versprochen habe, mit der Therapie anfangen kann. 
 
@@ -47,9 +47,9 @@ Nur zu gerne würde ich wieder mit dir zurück in die Zeit wollen bevor wir die 
 
 Du bist die schönste, sympathischste, humorvollste und klügste Frau die ich je kennengelernt habe, und heute noch mehr den je, denn du hast stetig an dir gearbeitet und dich weiterentwickelt. Im Gegensatz zu mir. 
 
-Ich habe es so sehr genossen mich in deine Augen zu verlieren, dein Stimme und dein Lachen zu hören, deine Hand in meiner zu spüren. Die Wärme und Geborgenheit die du versprühst zu erfahren wenn wir gekuschelt haben. Du konntest mich immer zum Lachen bringen, auch wenn mir nicht zum Lachen zu Mute war. Wir konnten uns anfangst auch nie wirklich böse sein und mussten sofort lachen, als wir uns wieder gegenseitig angesehen haben. Ich fand es immer wieder schön, wie wir uns gegenseitig intellektuell herausgefordert oder gegenseitig zum Lachen gebracht haben. 
+Ich habe es so sehr genossen mich in deinen Augen zu verlieren, deine Stimme und dein Lachen zu hören, deine Hand in meiner zu spüren. Die Wärme und Geborgenheit, die du versprühst, zu erfahren wenn wir gekuschelt haben. Du konntest mich immer zum Lachen bringen, auch wenn mir nicht zum Lachen zu Mute war. Wir konnten uns anfangs auch nie wirklich böse sein und mussten sofort lachen, als wir uns wieder gegenseitig angesehen haben. Ich fand es immer wieder schön, wie wir uns gegenseitig intellektuell herausgefordert oder gegenseitig zum Lachen gebracht haben. 
 
-Du hast mein Leben in so vielen Aspekten bereichert, du hast mir gezeigt was es wirklich heißt zu lieben, was es heißt füreinander einzustehen, hast Farbe, Wärme, Licht und Humor in mein Leben gebracht. Du hast mir Zuneigung und Intimität geschenkt, die ich so nie für möglich gehalten habe. Du hast mir so viele schöne Erinnerungen und eine wundervolle Tochter geschenkt, klasse Bands, Serien und Filme gezeigt, mit mir gelacht und geweint. Und mein Dank dafür war, dass ich dich immer wieder verletzt habe. 
+Du hast mein Leben in so vielen Aspekten bereichert, du hast mir gezeigt was es heißt zu wirklich und aufrichtig lieben, was es heißt füreinander einzustehen, hast Farbe, Wärme, Licht und Humor in mein Leben gebracht. Du hast mir Zuneigung und Intimität geschenkt, die ich so nie für möglich gehalten habe. Du hast mir so viele schöne Erinnerungen und eine wundervolle Tochter geschenkt, klasse Bands, Serien und Filme gezeigt, mit mir gelacht und geweint. Und mein Dank dafür war, dass ich dich immer wieder verletzt habe. 
 
 Aber trotz der ganzen Scheiße die wir zusammen durch gemacht haben, uns teils fast die Köpfe eingeschlagen haben, zugegeben fast ausschließlich wegen mir, habe ich mich immer für dich entschieden und werde mich immer wieder für dich entscheiden weil ich dich von ganzem Herzen und mit jeder Faser liebe und ich fest an unsere Beziehung glaube und auch daran, dass wir in Zukunft alles zusammen durchstehen können, wenn ich an mir gearbeitet habe. Wenn ich zu mir gefunden habe und einen gesunden Umgang mit meinen Traumata und Gefühlen gefunden habe. 
 
@@ -57,25 +57,25 @@ Angefangen hat unsere Beziehung vielleicht als Trauma-Bond aber über die Jahre,
 
 Und ja, während meines Aufenthaltes in der Klinik habe ich jemanden näher kennen gelernt, aber nicht Janna. Als wir beide uns dann aber im Wohnzimmer meiner Mutter geküsst haben wusste ich, dass es für mich immer nur dich geben wird und habe das sofort beendet, da ich sonst in einer Beziehung gewesen wäre, die sich für mich einfach nicht richtig angefühlt hätte. Ich dachte unsere erneute Annäherung war der erste kleine Funke, der die schwache Glut wieder zu einer kleinen Flamme hat werden lassen kann. 
 
-Und natürlich hänge ich an dir, denn du bist einfach die Liebe meines Lebens, meine Seelenverwandte. Das war damals schon so und du bist es immernoch, denn du warst alles nachdem ich immer gesucht habe. Ich hätte mich sonst nicht immer für dich entschieden, als die Sache mit Dina war, als die Sache in der Klinik war, wenn wir Streit hatten und ich abgehauen und doch zurück gekommen bin.
+Und natürlich hänge ich an dir, denn du bist einfach die Liebe meines Lebens, meine Seelenverwandte. Das warst du damals schon und du bist es immernoch, denn du bist alles nachdem ich immer gesucht habe. Ich hätte mich sonst nicht immer für dich entschieden, als die Sache mit Dina war, als die Sache in der Klinik war, wenn wir Streit hatten und ich abgehauen bin.
 
 Ich wusste immer tief in mir drin, dass mein Herz nur für dich und für niemand anderes schlägt. Und das merke ich auch heute immer und immer wieder, denn egal mit wie vielen ich in Kontakt trete oder wie gut auch die Unterhaltungen sind, ich habe mich nie mit jemandem lieber und besser unterhalten als mit dir, weil niemand dir, in meinen Augen, auch nur ansatzweise das Wasser halten kann, denn für mich gibt es für dich einfach keinen Ersatz. 
 
-Du bist die Frau mit der ich alt werden will, mit der ich die Sonnenauf- und Untergänge erleben und genießen will. Der ich Frühstück ans Bett bringen will, um die ich mich bei Krankheit kümmern will. In deren Gesicht ich sehen will wenn Emily uns zum Lachen bringt. Deren Lachen ich hören will und in deren Braun-grünen Augen ich mich weiterhin verlieren und immer wieder aufs Neue verlieben will, in deren Hand ich meine legen will, deren Hals ich küssen will weil ich weiß das dicj kitzelt und zum Lachen bringt. Mit der ich meine tiefsten Gedanken, Gefühle und intimsten Momente teilen will. Für die ich gerne Stunden in der Küche stehe um dir deine Lieblingsspeisen zu backen.
+Du bist die Frau mit der ich alt werden will, mit der ich die Sonnenauf- und Untergänge erleben und genießen will. In deren Augen ich nach dem wach werden sehen will und in deren Augen ich vorm schlafen gehen sehen will. Der ich Frühstück ans Bett bringen will, um die ich mich bei Krankheit kümmern will. In deren Gesicht ich sehen will wenn Emily uns zum Lachen bringt. Deren Lachen ich hören will und in deren Braun-grünen Augen ich mich weiterhin verlieren und immer wieder aufs Neue verlieben will, in deren Hand ich meine legen will, deren Hals ich küssen will weil ich weiß das es dich kitzelt und zum Lachen bringt. Mit der ich meine tiefsten Gedanken, Gefühle und intimsten Momente teilen will. Für die ich gerne Stunden in der Küche stehe um dir deine Lieblingsspeisen zu backen.
 
 Das will ich mit niemanden außer dir erleben, denn für mich wird es immer nur dich geben. Du hast mich so tief in meinem Inneren berührt, dass ich mich das erste Mal in meinem Leben in einer Beziehungen wirklich geliebt, sicher und zu Hause gefühlt habe. 
 
-Noch heute trage ich unser Bild vom Spaziergang im Schnee im Portemonnaie, weil es für mich eine der schönsten Erinnerungen von uns beiden ist, nach Emily's Geburt und unserer Hochzeit. 
+Noch heute, nach all dem Stress und den Schmerzen, trage ich unser Bild vom Spaziergang im Schnee im Portemonnaie, weil es für mich eine der schönsten Erinnerungen von uns beiden ist, nach Emily's Geburt und unserer Hochzeit. 
  
-Ich liebe und vermisse dich und Emily so unfassbar sehr und wünsche mir nichts mehr, als wieder eine Familie zu werden. Nicht jetzt, nicht sofort, aber vielleicht irgendwann. 
+Ich liebe und vermisse dich und Emily so unfassbar sehr und wünsche mir nichts mehr, als wieder eine Familie zu werden. Nicht jetzt, nicht sofort, aber irgendwann. 
 
-Du bist mein zweites Herz und ohne dich bin ich einfach nicht komplett. So wie der Doctor ohne Tardis, Tennant ohne Rose, Elmo ohne seine Kuscheldecke oder Krümelmonster ohne Kekse. 
+Du bist mein zweites Herz und ohne dich bin ich einfach nicht komplett. So wie der Doctor ohne Tardis, Tennant ohne Rose, Elmo ohne Kuscheldecke oder Krümelmonster ohne Kekse. 
 
 Wie Doctor Strange so schön sagt: "I Love You. I Love You In Every Universe." 
 
 Oder Professor Snape als Dumbledore ihn fragt: "After all this time?" er mit "Always" antwortet.  
 
-Ja, unsere Beziehung war nicht perfekt, und ich habe dich immer wieder verletzt jedoch hatte die Beziehung nicht nur schwierige oder schlechte Zeiten. Wir haben auch viele schöne Erinnerungen sammeln können.
+Ja, unsere Beziehung war nicht perfekt, und ich habe dich immer wieder verletzt, jedoch hatte die Beziehung nicht nur schwierige oder schlechte Zeiten. Wir haben über die Jahre auch viele schöne Erinnerungen sammeln können.
 
 ## Erinnerungen
 
