@@ -9,7 +9,7 @@
         category == 'thoughts',
     }"
   >
-<div class="flex items-start mb-1">
+<div class="flex w-full items-start justify-between mb-1">
 <h2 class="text-xl" v-if="category != 'thoughts' ">
 {{ doc.title}} 
 </h2>
