@@ -87,7 +87,7 @@ Wie ich dich mit dem Antrag in der Dachwohnung überraschen wollte, du aber dire
 
 Als wir endlich unsere erste gemeinsame Wohnung bezogen. 
 
-Wie ich dich angesehen habe als ich dich das erste Mal in deinem Hochzeitskleid gesehen habe, wie verliebt wir uns angeguckt haben, als wir uns das Ja-Wort gegeben haben. Ich den Moment habe ich meine beste Freundin und bessere Hälfte zur Frau genommen und ein Lebensziel ist in Erfüllung gegangen.
+Wie ich dich angesehen habe als ich dich das erste Mal in deinem Hochzeitskleid gesehen habe, wie verliebt wir uns angeguckt haben, als wir uns das Ja-Wort gegeben haben. Als wir getanzt haben, du mit einem kaputten Träger und ich mit zwei linken Füßen. An dem Tag habe ich meine beste Freundin und bessere Hälfte zur Frau genommen und ein Lebensziel ist in Erfüllung gegangen.
 
 Wie wir zu allen Liedern von Crazy Ex-Girlfriend mitgesungen und getanzt haben. Wie wir uns gegenseitig kuschelnd den Rücken gekratzt haben, oder welche Befriedigung du empfandst mir die Haare mit der Pinzette zu zupfen. Wie du dich gefreut hast, wenn ich dir Zimtschnecken oder Hefezöpfe buk. 
 
