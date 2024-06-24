@@ -1,5 +1,4 @@
 ---
-title: Mittwoch, 19. Juni 2024
 created_at: 2024-06-19 19:29
 ---
 
