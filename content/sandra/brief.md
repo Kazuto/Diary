@@ -65,7 +65,7 @@ Du bist die Frau mit der ich alt werden will, mit der ich die Sonnenauf- und Unt
 
 Das will ich mit niemanden außer dir erleben, denn für mich wird es immer nur dich geben. Du hast mich so tief in meinem Inneren berührt, dass ich mich das erste Mal in meinem Leben in einer Beziehungen wirklich geliebt, sicher und zu Hause gefühlt habe. 
 
-Noch heute, nach all dem Stress und den Schmerzen, trage ich unser Bild vom Spaziergang im Schnee im Portemonnaie, weil es für mich eine der schönsten Erinnerungen von uns beiden ist, nach Emily's Geburt und unserer Hochzeit. 
+Noch heute, nach all dem Stress und den Schmerzen, habe ich dich und Emily als Hintergrund und trage unser Bild vom Spaziergang im Schnee immer noch im Portemonnaie, weil es für mich eine der schönsten Erinnerungen von uns beiden ist, nach Emily's Geburt und unserer Hochzeit. 
  
 Ich liebe und vermisse dich und Emily so unfassbar sehr und wünsche mir nichts mehr, als wieder eine Familie zu werden. Nicht jetzt, nicht sofort, aber irgendwann. 
 
