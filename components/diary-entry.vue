@@ -13,7 +13,7 @@
 <h2 class="text-xl" v-if="category != 'thoughts' ">
 {{ doc.title}} 
 </h2>
-    <span class="block shrink-0 text-xs text-white/40 text-right">
+    <span class="justify-self-end block shrink-0 text-xs text-white/40 text-right">
       {{ $formatter.date(doc.created_at) }}
     </span>
 </div>
