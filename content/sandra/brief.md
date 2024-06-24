@@ -141,7 +141,7 @@ Ich bin auch bereit zur Paartherapie gehen, damit wir vielleicht wieder zusammen
 
 Ich bitte dich nur mir die Möglichkeit zu geben dir zeigen und beweisen zu können, wie viel mir wirklich an dir liegt, wie weit ich bereit bin für uns zu kämpfen und an mir zu arbeiten. Arbeit die ich in den letzten Jahren extrem  vernachlässigt habe. 
 
-Und damit meine ich nicht sofort wieder zusammen zu ziehen, sondern wir uns erstenmal aufs Neue kennen lernen, auf Dates gehen, die wir nie gemacht haben, tiefgründige Gespräche führen, Ausflüge mit Emily machen und uns somit vielleicht langsam wieder annähern.
+Und damit meine ich nicht sofort wieder zusammen zu ziehen, sondern wir uns erstenmal aufs Neue kennen lernen, jeder in seiner eigenen Wohnung wohnt, auf Dates gehen, die wir nie gemacht haben, tiefgründige Gespräche führen, Ausflüge mit Emily machen und uns somit vielleicht langsam wieder annähern.
 
 Ich weiß, dass das ein sehr schwieriger und harter Weg werden wird, ein Weg der vielleicht nicht mit Erfolg gekrönt ist, weil ich dein Vertrauen und deine Liebe ganz aufs Neue zurück gewinnen muss, jedoch nehme ich dafür alles auf mich. Ich habe angefangen an mir zu arbeiten, wirklich, und werde auch weiterhin an mir arbeiten weil ich weiterhin eine gemeinsame Zukunft mit uns als Familie will, aber eine gesunde Familie die auf Vertrauen und Ehrlichkeit basiert. 
 
