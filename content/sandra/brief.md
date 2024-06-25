@@ -7,8 +7,6 @@ Mein geliebtes Krümeleinhorn,
 
 Ich weiß, dass du nie einen richten Liebesbrief oder gar eine aufrichtige Entschuldigung von mir erhalten hast, weswegen ich dies gerne mit diesem Brief ändern will. 
 
-Können wir nicht von vorne beginnen? Uns neu kennen lernen. Alles auf Anfang?
-
 ## Entschuldigung
 
 Ich weiß, dass ich, vor allem im letzten Jahr, ein echt riesiges Arschloch war. Das ich unreif und auf Konfrontation aus war. Und ich weiß auch, dass ich das alles an dir ausgelassen habe und das werde ich mir selbst nie verzeihen können. 
