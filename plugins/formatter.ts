@@ -5,7 +5,19 @@ export default defineNuxtPlugin(() => {
     provide: {
       formatter: {
         date: (date: string) => {
-          return moment(date).fromNow();
+          const now = new Date();
+          const past = new Date(date);
+          const threshold = 3 * 24 * 50 * 60 * 1000;
+                    
+          const diff = now.getTime() - past.getTime();
+          
+          return diff >= threshold
+            ? past.toLocaleString("de-DE", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })
+            : moment(date).fromNow();
         },
       },
     },
