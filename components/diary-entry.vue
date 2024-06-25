@@ -5,7 +5,7 @@
     :class="{
       'bg-secondary-100/[0.025] hover:bg-secondary-100/[0.05]':
         category != 'thoughts',
-      'bg-neutral-400/[0.025] hover:bg-neutral-400/[0.05]':
+      'bg-neutral-600/[0.025] hover:bg-neutral-600/[0.05]':
         category == 'thoughts',
     }"
   >
