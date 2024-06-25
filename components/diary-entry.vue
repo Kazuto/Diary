@@ -19,7 +19,7 @@
       {{ doc.description }}
     </p>
 
-<div class="flex w-full justify-between">
+<div class="flex w-full justify-between mt-0.5">
 <span class="grow-1" />
     <span class="justify-self-end block shrink-0 text-xs text-white/40 text-right">
       {{ $formatter.date(doc.created_at) }}
