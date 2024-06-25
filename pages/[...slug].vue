@@ -4,7 +4,7 @@
       to="/"
       class="mb-4 inline-block text-primary-500 transition-colors hover:text-primary-700"
     >
-      &larr; Back
+      &larr; Startseite
     </nuxt-link>
 
     <div class="w-full flex-grow py-3">
@@ -23,7 +23,7 @@
         class="text-neutral-400 transition hover:text-primary-500"
         :to="prev._path"
       >
-        &larr; {{ prev.title }}
+        &larr; Zurück
       </NuxtLink>
       <span class="grow" />
       <NuxtLink
@@ -31,7 +31,7 @@
         class="text-neutral-400 transition hover:text-primary-500"
         :to="next._path"
       >
-        {{ next.title }} &rarr;
+        Weiter &rarr;
       </NuxtLink>
     </div>
   </article>
