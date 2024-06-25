@@ -8,9 +8,10 @@
     </nuxt-link>
 
     <div class="w-full flex-grow py-3">
-<h2 class="text-3xl mb-2">
-{{ page.title}} 
-</h2>
+      <h2 class="text-3xl mb-2" v-if="category != 'thoughts' ">
+        {{ page.title }} 
+      </h2>
+
       <ContentDoc
         class="block W-full font-semibold transition-all"
       />
