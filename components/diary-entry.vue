@@ -11,7 +11,7 @@
   >
 
 
-<h2 class="text-xl shrink-0" v-if="category != 'thoughts' ">
+<h2 class="text-xl shrink 0 mb-1" v-if="category != 'thoughts' ">
 {{ doc.title}} 
 </h2>
 
@@ -19,7 +19,7 @@
       {{ doc.description }}
     </p>
 
-<div class="flex w-full items-start justify-between mb-1">
+<div class="flex w-full items-start justify-between mt-1">
 <spam class="grow-1" />
     <span class="justify-self-end block shrink-0 text-xs text-white/40 text-right">
       {{ $formatter.date(doc.created_at) }}
