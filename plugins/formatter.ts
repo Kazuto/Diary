@@ -7,7 +7,7 @@ export default defineNuxtPlugin(() => {
         date: (date: string) => {
           const now = new Date();
           const past = new Date(date);
-          const threshold = 3 * 24 * 50 * 60 * 1000;
+          const threshold = 24 * 50 * 60 * 1000;
                     
           const diff = now.getTime() - past.getTime();
           
