@@ -34,6 +34,8 @@
         Weiter &rarr;
       </NuxtLink>
     </div>
+    
+    <prev-next-links />
   </article>
 </template>
 
