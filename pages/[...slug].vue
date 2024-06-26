@@ -34,8 +34,6 @@
         Weiter &rarr;
       </NuxtLink>
     </div>
-    
-    {{ page._path }} 
   </article>
 </template>
 
@@ -44,9 +42,9 @@ const { page } = useContent();
 const route = useRoute();
 
 const [prev, next] = await queryContent()
-  .only(['_path', 'title'])
+  .only(['_path'])
   .sort({ created_at: 1})
-  .findSurround(page._path)
+  .findSurround('/')
 
 const category = computed(() => {
   return route.fullPath.split("/").filter((x) => x !== "")[0];
