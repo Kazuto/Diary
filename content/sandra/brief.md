@@ -103,7 +103,7 @@ Erinnerungen wie Versengold und Ralf Schmitz live zu sehen, die Besuche beim Bau
 
 Und ich möchte noch viel mehr Erinnerungen sammeln, Erinnerungen wie gemeinsame Besuche im Ikea wenn Emily die kleinen Schalen bekommt oder auf dem Spielplatz spielt. Familienausflüge in andere Städte und Länder, kulturelle Veranstaltungen erleben, mit der kleinen im Buggy spazieren gehen, sehen wie sie ihre Geschenke öffnet, Tierparks, Spieleparadise, Stadtfeste und Weihnachtensmärkte besuchen, mit Emily Eis essen und schwimmen gehen und nicht mehr fast nur zu Hause hocken. Ich möchte ein ereignisreiches und erfüllendes Leben, kein monotones und festgefahrenes mehr. Ich möchte nicht mehr nur jeden Tag auf der Couch verbringen. 
 
-Und ich möchte die Traditionen beibehalten und neue einführen, wie an Weihnachten Drei Haselnüsse gucken oder Braut des Prinzen gucken, eingekuschelt auf der Couch, wenn es dir mal nicht gut geht oder du Geburtstag hast. Weihnachten mit der kleinen den Baum schmücken, mit ihr deine Geschenke verpacken.
+Und ich möchte die Traditionen beibehalten und neue einführen, wie an Weihnachten Drei Haselnüsse gucken, Braut des Prinzen oder Die Reise ins Labyrinth gucken, eingekuschelt auf der Couch, wenn es dir mal nicht gut geht oder du Geburtstag hast. Weihnachten mit der kleinen den Baum schmücken, mit ihr deine Geschenke verpacken.
 
 Ich hatte endlich alles erreicht was ich mir immer erträumt habe. Eine wunderschöne, sympathische und liebevolle Frau und eine traumhaftes, süßes kleines Mädchen, welches wir unsere Tochter nennen durften. Ich hatte endlich meine eigene Familie, für die ich durch die Hölle gehen würde um diese zu beschützen. 
 
