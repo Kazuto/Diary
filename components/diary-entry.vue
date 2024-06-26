@@ -3,9 +3,9 @@
     :to="doc._path"
     class="duration-250 block rounded-lg border border-black/30 px-4 py-3 font-semibold shadow-md shadow-gray-900/10 ring-inset transition-all hover:-translate-y-0.5 hover:shadow-md dark:ring-1 ring-white/5"
     :class="{
-      'bg-secondary-900':
+      'bg-secondary-100/10':
         category != 'thoughts',
-      'bg-indigo-950':
+      'bg-indigo-950/10':
         category == 'thoughts',
     }"
   >
