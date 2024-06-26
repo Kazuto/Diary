@@ -35,13 +35,18 @@
       </NuxtLink>
     </div>
     
-    <prev-next-links />
+    {{ page._path }} 
   </article>
 </template>
 
 <script setup lang="ts">
-const { prev, next, page } = useContent();
+const { page } = useContent();
 const route = useRoute();
+
+const [prev, next] = await queryContent()
+  .only(['_path', 'title'])
+  .sort({ created_at: 1})
+  .findSurround(page._path)
 
 const category = computed(() => {
   return route.fullPath.split("/").filter((x) => x !== "")[0];
