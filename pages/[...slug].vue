@@ -23,7 +23,7 @@
         class="text-neutral-400 transition hover:text-primary-500"
         :to="prev._path"
       >
-        &larr; Zurück
+        &larr; Vorheriger
       </NuxtLink>
       <span class="grow" />
       <NuxtLink
@@ -31,7 +31,7 @@
         class="text-neutral-400 transition hover:text-primary-500"
         :to="next._path"
       >
-        Weiter &rarr;
+        Nächster &rarr;
       </NuxtLink>
     </div>
   </article>
