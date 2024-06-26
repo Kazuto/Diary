@@ -77,13 +77,17 @@ Ja, unsere Beziehung war nicht perfekt, und ich habe dich immer wieder verletzt,
 
 ## Erinnerungen
 
-Unser erster Kuss vor dem Elisabeth, die ganzen Filme die wir angefangen, aber nie zu Ende geguckt haben, als ich bei deiner Abreise zur Klassenfahrt gewartet hatte Bai der Bus nicht mehr sichtbar war, dein Abitur und die Arbeit an deiner Abizeitung, wie wunderschön du zu deinem Abiball aussahst, als du mitten in der Nacht wegen einer Spinne in der Kellerwohnung angerufen hattest, ich dir das erste mal Tong Hua per Sprachnachricht vorgesungen habe, die Feste auf der Paul-Moor Schule wo du immer wieder Büchern ein neues zu Hause geschenkt hast, die gemeinsamen Besuche auf der Gamescom und dem Kikos Stand, die Tage im Phantasialand, die zahlreichen Kino- und Restaurantsbesuche, Geburtstage und Festivitäten mit der Familie, die Konzerte und Live-Auftritte auf die wir gegangen sind, die Spaziergängen, wenn auch viel zu wenige, oder als du mir die Kette vom Chester geschenkt hast und ich vor Freude geweint habe. 
+Unser erster Kuss vor dem Elisabeth, die ganzen Filme die wir angefangen, aber nie zu Ende geguckt haben, als ich bei deiner Abreise zur Klassenfahrt gewartet hatte Bai der Bus nicht mehr sichtbar war, dein Abitur und die Arbeit an deiner Abizeitung, wie wunderschön du zu deinem Abiball aussahst, als du mitten in der Nacht wegen einer Spinne in der Kellerwohnung angerufen hattest, ich dir das erste mal Tong Hua per Sprachnachricht vorgesungen habe.
+
+Die Feste auf der Paul-Moor Schule wo du immer wieder Büchern ein neues zu Hause geschenkt hast, die gemeinsamen Besuche auf der Gamescom und dem Kikos Stand, die Tage im Phantasialand, die zahlreichen Kino- und Restaurantsbesuche, Geburtstage und Festivitäten mit der Familie, die Konzerte und Live-Auftritte auf die wir gegangen sind, die Spaziergängen, wenn auch viel zu wenige, oder als du mir die Kette vom Chester geschenkt hast und ich vor Freude geweint habe. 
+
+Als ich auf dem MPS gegen deinen Rat ins Wasser gegangen bin und tagelang Blasen auf dem Kopf hatte.
 
 Als wir Lubo gesehen, du dich schockverliebt hast und wir ihn am nächsten Tag mit nach Hause nehmen durften, die ganzen Spaziergänge durch den Wald mit ihm. 
 
 Wie ich dich mit dem Antrag in der Dachwohnung überraschen wollte, du aber direkt zurück in die Küche kamst und ich so improvisieren musste.
 
-Als wir endlich unsere erste gemeinsame Wohnung bezogen. 
+Als wir endlich unsere erste gemeinsame Wohnung bezogen.
 
 Wie ich dich angesehen habe als ich dich das erste Mal in deinem Hochzeitskleid gesehen habe, wie verliebt wir uns angeguckt haben, als wir uns das Ja-Wort gegeben haben. Als wir getanzt haben, du mit einem kaputten Träger und ich mit zwei linken Füßen. An dem Tag habe ich meine beste Freundin und bessere Hälfte zur Frau genommen und ein Lebensziel ist in Erfüllung gegangen.
 
@@ -99,7 +103,7 @@ Erinnerungen wie Versengold und Ralf Schmitz live zu sehen, die Besuche beim Bau
 
 Und ich möchte noch viel mehr Erinnerungen sammeln, Erinnerungen wie gemeinsame Besuche im Ikea wenn Emily die kleinen Schalen bekommt oder auf dem Spielplatz spielt. Familienausflüge in andere Städte und Länder, kulturelle Veranstaltungen erleben, mit der kleinen im Buggy spazieren gehen, sehen wie sie ihre Geschenke öffnet, Tierparks, Spieleparadise, Stadtfeste und Weihnachtensmärkte besuchen, mit Emily Eis essen und schwimmen gehen und nicht mehr fast nur zu Hause hocken. Ich möchte ein ereignisreiches und erfüllendes Leben, kein monotones und festgefahrenes mehr. Ich möchte nicht mehr nur jeden Tag auf der Couch verbringen. 
 
-Und ich möchte die Traditionen beibehalten und neue einführen, wie an Weihnachten Drei Haselnüsse gucken oder Braut des Prinzen gucken, eingekuschelt auf der Couch, wenn es dir mal nicht gut geht oder du Geburtstag hast. Weihnachten mit der kleinen den Baum schmücken, mit ihr deine Geschenke verpacken. 
+Und ich möchte die Traditionen beibehalten und neue einführen, wie an Weihnachten Drei Haselnüsse gucken oder Braut des Prinzen gucken, eingekuschelt auf der Couch, wenn es dir mal nicht gut geht oder du Geburtstag hast. Weihnachten mit der kleinen den Baum schmücken, mit ihr deine Geschenke verpacken.
 
 Ich hatte endlich alles erreicht was ich mir immer erträumt habe. Eine wunderschöne, sympathische und liebevolle Frau und eine traumhaftes, süßes kleines Mädchen, welches wir unsere Tochter nennen durften. Ich hatte endlich meine eigene Familie, für die ich durch die Hölle gehen würde um diese zu beschützen. 
 
