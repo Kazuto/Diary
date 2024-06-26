@@ -39,15 +39,14 @@
 
 <script setup lang="ts">
 const { page } = useContent();
-const route = useRoute();
+const { path } = useRoute();
 
 const [prev, next] = await queryContent()
-  .only(['_path'])
   .sort({ created_at: 1})
-  .findSurround('/')
+  .findSurround(path)
 
 const category = computed(() => {
-  return route.fullPath.split("/").filter((x) => x !== "")[0];
+  return path.split("/").filter((x) => x !== "")[0];
 });
 </script>
 
