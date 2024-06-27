@@ -51,7 +51,7 @@
     @apply mb-4 font-bold leading-5 tracking-normal;
   }
 
-p + h2 {
-    @apply mt-6 mb-2 text-xl;
-  } 
+  p + h2 {
+    @apply mb-2 mt-6 text-xl;
+  }
 }

@@ -8,13 +8,11 @@
     </nuxt-link>
 
     <div class="w-full flex-grow py-3">
-      <h2 class="text-3xl mb-2" v-if="category != 'thoughts' ">
-        {{ page.title }} 
+      <h2 v-if="category != 'thoughts'" class="mb-2 text-3xl">
+        {{ page.title }}
       </h2>
 
-      <ContentDoc
-        class="block W-full font-semibold transition-all"
-      />
+      <ContentDoc class="W-full block font-semibold transition-all" />
     </div>
 
     <div class="items-between flex w-full self-end pt-8">
@@ -42,8 +40,8 @@ const { page } = useContent();
 const { path } = useRoute();
 
 const [prev, next] = await queryContent()
-  .sort({ created_at: 1})
-  .findSurround(path)
+  .sort({ created_at: 1 })
+  .findSurround(path);
 
 const category = computed(() => {
   return path.split("/").filter((x) => x !== "")[0];
