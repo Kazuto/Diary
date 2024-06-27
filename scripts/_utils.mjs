@@ -1,4 +1,5 @@
 import fs from "fs";
+import { readdir } from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -6,8 +7,6 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 function getCurrentDate() {
   let date = new Date();
-
-  console.log(date);
 
   const year = date.getFullYear();
   const month = appendLeadingZeroes(date.getMonth() + 1);
@@ -37,6 +36,16 @@ function ensureDirectory(dirPath) {
   }
 }
 
+async function countFilesInDirectory(dirPath) {
+  try {
+    const files = await readdir(dirPath);
+
+    return files.length;
+  } catch (err) {
+    console.log(err);
+  }
+}
+
 function createFile(templatePath, filePath) {
   const title = new Date().toLocaleString("de-DE", {
     weekday: "long",
@@ -59,5 +68,6 @@ export default {
   __dirname,
   getCurrentDate,
   ensureDirectory,
+  countFilesInDirectory,
   createFile,
 };

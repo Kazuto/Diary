@@ -1,4 +1,3 @@
 ---
-title:
 created_at:
 ---
