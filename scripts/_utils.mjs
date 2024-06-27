@@ -10,6 +10,7 @@ function getCurrentDate() {
 
   const year = date.getFullYear();
   const month = appendLeadingZeroes(date.getMonth() + 1);
+  const monthName = date.toLocaleString("default", { month: "long" });
   const day = appendLeadingZeroes(date.getDate());
 
   const hour = appendLeadingZeroes(date.getHours());
@@ -18,6 +19,7 @@ function getCurrentDate() {
   return {
     year: `${year}`,
     month: `${month}`,
+    monthName: `${monthName}`,
     day: `${day}`,
     dayOfWeek: `${date.dayOfWeek}`,
     hour: `${hour}`,

@@ -8,7 +8,7 @@ const dirPath = path.join(
   "../content",
   "diary",
   `${date.year}`,
-  `${date.month}`,
+  `${date.monthName}`,
 );
 
 utils.ensureDirectory(dirPath);
